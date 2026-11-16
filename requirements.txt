@@ -1,0 +1,6 @@
+a2a-sdk[fastapi]
+openai-agents
+uvicorn
+python-dotenv
+mcp[cli]<2
+httpx
